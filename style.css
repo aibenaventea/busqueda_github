@@ -1,0 +1,22 @@
+.userInfo {
+    width: 500px;
+    margin-top: 20px;
+    border: 2px solid blue;
+    background-color: lightgrey;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.userInfo2 {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.userImg{
+    height: 128px;
+    border-radius: 50%;
+    margin: 20px;
+}
